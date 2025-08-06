@@ -1,4 +1,4 @@
-# Olá, eu sou o Luis Fernando 👋
+# Oi, eu sou o Luis Fernando 
 
 Sou estudante de Ciências da Computação na USC e apaixonado por tecnologia e programação.  
 Aqui você vai encontrar meus projetos pessoais e estudos.
@@ -18,4 +18,4 @@ Aqui você vai encontrar meus projetos pessoais e estudos.
 
 ## Contato
 - Email: luisfernando0uti45@gmail.com
-- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
+
