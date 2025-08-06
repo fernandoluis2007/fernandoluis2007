@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou o Luis Fernando 👋
 
-<!--
-**fernandoluis2007/fernandoluis2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciências da Computação na USC e apaixonado por tecnologia e programação.  
+Aqui você vai encontrar meus projetos pessoais e estudos.
 
-Here are some ideas to get you started:
+## Sobre mim
+- 📚 Estudante focado em Python, Java
+- 🛠️ Desenvolvimento de projetos básicos e soluções para o dia a dia
+- ⚙️ Interesse em backend, bancos de dados e DevOps
+- 🔍 Sempre aprendendo e buscando novos desafios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Linguagens: Python, Java, JavaScript,, C(básico), PHP (básico), C# (básico)
+- Banco de Dados: SQL
+- Ferramentas: Git, GitHub, Linux básico
+- Frameworks: Flask (básico), FastAPI, Tkinter, CustomTkinter
+
+
+## Contato
+- Email: luisfernando0uti45@gmail.com
+- LinkedIn: [Seu LinkedIn](https://linkedin.com/in/seulinkedin)
