@@ -1,4 +1,4 @@
-# Oi, eu sou o Luis Fernando 
+# Olá, eu sou o Luis Fernando 
 
 Sou estudante de Ciências da Computação na USC e apaixonado por tecnologia e programação.  
 Aqui você vai encontrar meus projetos pessoais e estudos.
