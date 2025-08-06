@@ -4,7 +4,7 @@ Sou estudante de Ciências da Computação na USC e apaixonado por tecnologia e 
 Aqui você vai encontrar meus projetos pessoais e estudos.
 
 ## Sobre mim
-- 📚 Estudante focado em Python, Java
+- 📚 Focado em Python, Java
 - 🛠️ Desenvolvimento de projetos básicos e soluções para o dia a dia
 - ⚙️ Interesse em backend, bancos de dados e DevOps
 - 🔍 Sempre aprendendo e buscando novos desafios
